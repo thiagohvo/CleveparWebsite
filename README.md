@@ -3,7 +3,7 @@
 This is the official website of Clevepar, a tools company. The site was entirely developed using pure HTML, CSS, and JavaScript, with a strong focus on clean structure, responsive design, privacy compliance, and accessibility.
 
 ## 🌐 Live Site
-[www.clevepar.com.br](https://www.clevepar.com.br)
+[www.cleveparparafusos.com.br](https://www.cleveparparafusos.com.br)
 
 ## 🚀 Features
 
