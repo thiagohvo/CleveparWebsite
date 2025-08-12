@@ -24,7 +24,7 @@ This is the official website of Clevepar, a tools company. The site was entirely
 - ✅ External links to:
   - WhatsApp
   - Instagram
-  - YouTube
+  - Facebook
   - Google Maps
 - ✅ Hosted on a custom domain with DNS properly configured
 
